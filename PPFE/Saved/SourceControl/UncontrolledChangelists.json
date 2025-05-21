@@ -6,12 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
-				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/Minimal_Default.umap",
-				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/Advanced_Lighting.umap",
-				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
-				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/StarterMap.umap",
-				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/StepUp.umap",
 				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/Untitled_HLOD0_Instancing.uasset",
 				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
@@ -147,7 +141,14 @@
 				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD.uasset",
 				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I.uasset",
 				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R.uasset",
-				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/Untitled.umap"
+				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/Untitled.umap",
+				"C:/Users/romain.domingues/Documents/GitHub/StepUP-Battle-dance/PPFE/Content/StarterContent/Maps/StepUp.umap",
+				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/Advanced_Lighting.umap",
+				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/StarterMap.umap",
+				"C:/Users/romain.domingues/Documents/Unreal Projects/PPFE/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
 			]
 		}
 	]
